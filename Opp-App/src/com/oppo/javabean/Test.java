@@ -1,4 +1,4 @@
-package com.oppo.javabeab;
+package com.oppo.javabean;
 
 public class Test {
     public static void main(String[] args) {

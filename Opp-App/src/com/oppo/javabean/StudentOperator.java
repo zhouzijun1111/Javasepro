@@ -1,4 +1,4 @@
-package com.oppo.javabeab;
+package com.oppo.javabean;
 
 public class StudentOperator {
     private Student student;

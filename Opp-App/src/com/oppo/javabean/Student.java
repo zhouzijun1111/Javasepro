@@ -1,4 +1,4 @@
-package com.oppo.javabeab;
+package com.oppo.javabean;
 
 public class Student {
     private String name;
